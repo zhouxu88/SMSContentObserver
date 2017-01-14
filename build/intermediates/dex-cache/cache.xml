@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_d835d28a2e2a449f7f7851f509985a5e5089843a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c963ae7947ac54e3b9a4a17e95b9a59b50c5b846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_18203747ac950cdd4e34486f8645c4fd42f3ea61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8def9ec2fa7eb71ff9b52ab5c5af5cf54c1e8391">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\instant-run_5cdfdb522122077f016df9d359fbb7e10674c02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\BmobSDK_3.5.0_20160630.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8eb5c605a02f792e326c5ac8e4feb2c18dd171ad">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.0_20160630_b9907d7481d1603216256e5b85efc5b2c54fe66b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="29d5a14a5ebec7973cece9f0b5ba15b8878f5f0f">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_147b307d911b58550d625e0fe9163b584c68a529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_abc83646af2d21122f369bb72e55763ae2867c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="19beef6debb6a22febc28777464c71bfccbafe3d">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_bda27bb318dd7433624195537855cd0ea6c213eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_1f7f1b38da676a8bf438c19cf7e29f2793f84de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_621c64201a706a44236c11e048b386da9625587a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1fe330cf40123747f4ee9e919a54e86eb28d79d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a9b6400e6e3957e95ad85f0d704c18846df4c337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e47f10299673ab68f24c595f96b18086cc9a8384">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\cn.bmob.android-bmob-sdk-3.5.0_9b3d706b407c3936f2de644b94752734d8a559db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5f30ea382be4e4541647b075b9baf375886e9d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac615240b277e7fd3950d7b35f73b733f310cede">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_00f3134c68fa1457127b9ba85a2c09b844d12b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7cb33d9f82d3b8521c6594b180f4dd9fc6d49f2">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_c1ab77a1f3f5356d6f0e8877c44448a728c10d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_6530b7d87759674bfe6ce1fa6799ee09d64580bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3863e61e1370fbdaeda173a731b84c7c95f72a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\周旭\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-sms\1.0.1\df9db564e2842696a68deca39b0186aebf3dc07c\bmob-sms-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="df9db564e2842696a68deca39b0186aebf3dc07c">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\bmob-sms-1.0.1_b5f447a5f63c364417838e8bc52391b90887d3c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd625f5e7bba8235782b5dc4244c3fd26953190f">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\gson-2.6.2_1c41fd85d5b450e1d423f7d70c47d97ea843eb17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5a1f0491128b2ad5f39b38b8dcb6a2e3c1d41451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.0\jars\libs\okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bbeca71da43c8f4bc9ceedec002060f53437ad26">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\okio-1.7.0_1933ff3256cfb1eb8a8dafec67575b25ed54bfbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_0dccb129b5d94e66277bfe7b3fc7cad09b9574fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_df5c8f7bb42287d2aa1725054b49fe8227560502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Android-software\Android-Studio\workspace\SMSSMSContentObserver-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_3ffcf2482bc4ef7fcfaf99890b8f9134a31a3362.jar" />
+    </item>
+
+</items>
